@@ -2,8 +2,8 @@ module.exports = {
   pathPrefix: "/portfolioSaul",
   siteMetadata: {
     title: `Saurish Lahiri's Portfolio`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@deeptish`,
+    description: `Senior UX Designer, based out of Toronto`,
+    author: `@Saurish`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

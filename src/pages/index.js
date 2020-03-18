@@ -8,12 +8,22 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
+    <h1>Hello 👋</h1>
+    <p>
+      I am a Senior User Experience Designer with over 4 years of experience,
+      skilled at product strategy and user research.
+    </p>
+    <p>
+      I like to address business goals by understanding user needs using rapid
+      research techniques, value proposition testing, competitor analysis,
+      journey maps, prototyping and usability tests.
+    </p>
+    <p>
+      I have perspective and experience in managing a small design team and
+      moderating design sprints to tackle complex product problems and create
+      feasible and viable business solutions.
+    </p>
+    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}></div>
     <Link to="/page-2/">Go to page 2</Link>
   </Layout>
 )
